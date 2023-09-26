@@ -13,6 +13,7 @@
 
 5. Lauch your docker image in EC2
 ```
+
 ## 1. Login to AWS Console.
 
 ## 2. Create IAM (Identity and Access Management) User for Deployment
